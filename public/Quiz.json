@@ -1,0 +1,28 @@
+[
+    {
+      "question": "The Battle of Plassey was fought in",
+      "options": ["1757", "1759", "1747", "1777"],
+      "correctAnswer": "1757"
+    },
+    {
+      "question": "FFC stands for",
+      "options": ["Foreign Finance Corporation", "Film Finance Corporation", "Federation of Football Council","None of the above"],
+      "correctAnswer": "Film Finance Corporation"
+    },
+    {
+      "question": "What is the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "question": "Entomology is the science that studies",
+      "options": ["Behavior of human beings", "Insects", "The origin and history of technical and scientific terms", "The formation of rocks"],
+      "correctAnswer": "Insects"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    }
+  ]
+  
